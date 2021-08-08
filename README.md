@@ -16,3 +16,7 @@
    2.赛季刷新，超出分数进行折半
    3.判断当前是否可领取奖励
    4.赛季刷新，进行分数计算
+
+
+**流程图**
+![image](https://github.com/89trillion-songzhiheng/champion/blob/main/picture/guanjunliucheng.png)
