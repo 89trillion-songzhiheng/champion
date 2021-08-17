@@ -5,21 +5,21 @@
 2.设置按钮的点击事件，并根据点击事件，设置相应
 3.根据当前分数，设置可领取奖励的范围
  
- **目录结构**
-├── Controller
-│   ├── Add.cs //添加分数
-│   ├── Add.cs.meta
-│   ├── Card.cs //添加卡片分数
-│   ├── Card.cs.meta
-│   ├── Check.cs //查看当前可领取奖励位置
-│   ├── Check.cs.meta
-│   ├── Fresh.cs //赛季刷新
-│   └── Fresh.cs.meta
-├── Controller.meta
-├── View
-│   ├── PrefabCard.cs //奖励卡片预质体实体类
-│   └── PrefabCard.cs.meta
-└── View.meta
+ **目录结构**           
+├── Controller  
+│   ├── Add.cs //添加分数  
+│   ├── Add.cs.meta  
+│   ├── Card.cs //添加卡片分数  
+│   ├── Card.cs.meta  
+│   ├── Check.cs //查看当前可领取奖励位置  
+│   ├── Check.cs.meta  
+│   ├── Fresh.cs //赛季刷新  
+│   └── Fresh.cs.meta  
+├── Controller.meta  
+├── View  
+│   ├── PrefabCard.cs //奖励卡片预质体实体类  
+│   └── PrefabCard.cs.meta  
+└── View.meta  
 
 **界面要求**
   Hierarchy
