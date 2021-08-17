@@ -19,4 +19,4 @@
 
 
 **流程图**
-![image](https://github.com/89trillion-songzhiheng/champion/blob/main/picture/guanjunliucheng.png)
+![image](https://github.com/89trillion-songzhiheng/champion/blob/main/picture/guanjun.png)
