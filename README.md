@@ -34,4 +34,4 @@
    
 **流程图**
 
-![image](https://github.com/89trillion-songzhiheng/champion/blob/main/picture/ChamPicture.png)
+![image](https://github.com/89trillion-songzhiheng/champion/blob/main/picture/newCham.png)
