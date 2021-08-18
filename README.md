@@ -34,4 +34,4 @@
    
 **流程图**
 
-![image](https://github.com/89trillion-songzhiheng/champion/tree/main/Assets/Picture/Newchamp)
+![image](https://github.com/89trillion-songzhiheng/champion/tree/main/Assets/Picture/NewChamp)
