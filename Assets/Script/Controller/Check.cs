@@ -33,7 +33,8 @@ public class Check : MonoBehaviour
 
         //定位目前可领取的最高奖励
         if (cardInd >= 0)
-        {
+        { 
+            //滑动窗口（0，0，0）位置一直定位在第二个卡片，因此在第一个卡片的高度230上进行计算
             content.transform.position = new Vector3(content.transform.position.x, 
                 230 - (high * cardInd)  , content.transform.position.z);
         }
