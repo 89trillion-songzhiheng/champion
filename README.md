@@ -5,7 +5,8 @@
 2.设置按钮的点击事件，并根据点击事件，设置相应
 3.根据当前分数，设置可领取奖励的范围
  
- **目录结构**           
+ **目录结构**        
+ ```
 ├── Controller  
 │   ├── Add.cs //添加分数  
 │   ├── Add.cs.meta  
@@ -20,7 +21,7 @@
 │   ├── PrefabCard.cs //奖励卡片预质体实体类  
 │   └── PrefabCard.cs.meta  
 └── View.meta  
-
+```
 **界面要求**
   Hierarchy
    1.Canvas
