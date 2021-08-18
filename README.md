@@ -23,6 +23,7 @@
 └── View.meta  
 ```
 **界面要求**  
+```
   Hierarchy  
    1.Canvas  
      1).OperatePanel:放置3个按钮  
@@ -32,7 +33,7 @@
      2).Scroll View:展示卡片  
   Prefab  
    1.card:奖励卡片的预质体  
-   
+ ```  
 **流程图**  
 
 ![image](https://github.com/89trillion-songzhiheng/champion/blob/main/Picture/NewChamp.png)
